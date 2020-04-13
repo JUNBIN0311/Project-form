@@ -1,0 +1,54 @@
+.table1 {
+    border-radius: 10px;
+    border: solid 1px red;
+}
+.heading-1 > h4 {
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: yellow;
+    padding: 20px;
+}
+.form1 {
+    border-bottom: solid 1px black;
+}
+ul {
+    list-style: none;
+}
+span {
+    color: red;
+}
+.form2 {
+    border-bottom: solid 1px black;
+}
+.heading-2 > h4 {
+    margin-top: 0px;
+    padding: 20px;
+}
+.form2 > li {
+    padding: 5px;
+}
+.heading-3 > h4 {
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: yellow;
+    padding: 20px;
+}
+.formside3 > li {
+    padding: 2px 5px 5px 5px;
+    margin-bottom: 2px;
+}
+.heading-4 > h4 {
+    background: yellow;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 0px;
+    padding: 20px;
+}
+tbody > tr > td {
+    padding: 5px;
+}
+.btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
